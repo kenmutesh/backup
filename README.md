@@ -17,4 +17,4 @@ A comprehensive backup solution for Laravel applications, similar to Spatie's ba
 ## Installation
 
 ```bash
-composer require yourname/laravel-backup
+composer require ken/laravel-backup
