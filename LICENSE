@@ -1,0 +1,13 @@
+
+## Installation Instructions for Package Users
+
+1. **Add to composer.json:**
+```json
+{
+    "repositories": [
+        {
+            "type": "path",
+            "url": "packages/ken/laravel-backup"
+        }
+    ]
+}
